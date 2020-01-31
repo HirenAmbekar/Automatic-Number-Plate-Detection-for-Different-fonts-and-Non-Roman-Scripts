@@ -10,7 +10,7 @@ car3.JPG, car3process.JPG and car3processR.JPG
 The text extracted from them are stored in,
 car1recog.txt, car2recog.txt and car3recog.txt respectively
 
-To test for your own image, extract_text file is also present
+To test for your own image, imageProcessor.py file is also present
 Just fire command:- python extract_text <input_filename> <output_filename>
 The script will produce two new processed images with the given output_filename
 
